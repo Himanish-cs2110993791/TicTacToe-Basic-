@@ -61,11 +61,11 @@ This project demonstrates the use of basic Python programming concepts:
 
 Himanish Wins.
 
-X | O | X
+X | X | X
 ----------
-O | X |  
+O | O | X
 ----------
-X |   | O
+X | O | O
 
 
 ---
